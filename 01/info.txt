@@ -1,0 +1,2 @@
+Baza danych: [nazwa] [versja] [strona domowa]
+Manager DB: [nazwa] [versja] [strona domowa]
