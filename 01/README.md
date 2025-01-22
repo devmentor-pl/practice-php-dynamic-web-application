@@ -5,7 +5,7 @@
 # `#01` PHP: Dynamic Web Application
 
 
-Zainstaluj relacyjną bazę danych zgodną z SQL oraz graficznego mangera do zarzadzania tabelami i ich zwartością.
+Zainstaluj relacyjną bazę danych zgodną z SQL oraz graficzny manager do zarzadzania bazą danych (tabelami i ich zwartością).
 
 Informacje o zainstalowanych programach zapisz w pliku info.txt
 
