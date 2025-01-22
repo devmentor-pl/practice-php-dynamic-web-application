@@ -1,2 +1,2 @@
-Baza danych: [nazwa] [versja] [strona domowa]
-Manager DB: [nazwa] [versja] [strona domowa]
+Baza danych: mysql 15.1
+Manager DB: xampp 3.3.0, phpmyadmin
